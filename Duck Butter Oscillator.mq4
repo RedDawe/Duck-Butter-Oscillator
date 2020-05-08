@@ -10,8 +10,8 @@
 #property  indicator_separate_window
 #property  indicator_buffers 3
 #property  indicator_color1  Black
-#property  indicator_color2  Blue
-#property  indicator_color3  Yellow
+#property  indicator_color2  White
+#property  indicator_color3  Orange
 //--- buffers
 double     ExtAOBuffer[];
 double     ExtUpBuffer[];
